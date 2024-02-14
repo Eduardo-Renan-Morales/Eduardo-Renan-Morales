@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Eduardo-Renan-Morales/Eduardo-Renan-Morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou Eduardo Moarales, sou programador Front end com experiência em:
+<br>
+<br>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E cursando JavaScript e React.
+<br>
+<br>
+link instagram 
+<a hrf="https://www.instagram.com/eduardo_morales06/"> <img align="left" alt="logo-instagram" width="40px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-5.png"/> </a>
+
+<br>
+<br>
+
+[![ Eduardo stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Renan-Morales)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Renan-Morales)](https://github.com/anuraghazra/github-readme-stats)
+<br>
