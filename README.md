@@ -10,7 +10,7 @@ sou Eduardo Morales, sou programador Front end com experiência em: :arrow_down:
 E cursando: :arrow_down:
 <br>
 <br>
-<img src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"/>
 
 <br>
